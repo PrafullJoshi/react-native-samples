@@ -1,0 +1,12 @@
+{
+  "name": "my-rna-2",
+  "displayName": "my-rna-2",
+  "expo": {
+    "name": "my-rna-2",
+    "slug": "my-rna-2",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
