@@ -1,9 +1,9 @@
 {
-  "name": "my-rna-2",
-  "displayName": "my-rna-2",
+  "name": "react-native-samples",
+  "displayName": "react-native-samples",
   "expo": {
-    "name": "my-rna-2",
-    "slug": "my-rna-2",
+    "name": "react-native-samples",
+    "slug": "react-native-samples",
     "version": "1.0.0",
     "assetBundlePatterns": [
       "**/*"
